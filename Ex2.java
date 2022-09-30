@@ -1,4 +1,4 @@
-public class Main {
+public class Ex2{
 public static void main(String args[]) {
     int x = 5, y = 7, soma;
     double a = 9, b = 15, soma2;
