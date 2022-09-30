@@ -1,4 +1,4 @@
-public class Main{
+public class Ex7{
     public static void main(String[] args){
         int count = 0;
         for (int j = 100; j < 200; j++){
