@@ -1,7 +1,7 @@
 public class Ex3{
     public static void main(String[] args){
         int count = 0;
-        for (int j = 2; j < 58; j++){
+        for (int j = 2; j < 100; j++){
             boolean primo = true;
             if(count == 15){
                 break;
